@@ -1,0 +1,9 @@
+-od"bin"
+-of"bin/sequence_parser"
+
+-I"src"
+
+"src/parser.d"
+"src/sequence.d"
+
+-release
